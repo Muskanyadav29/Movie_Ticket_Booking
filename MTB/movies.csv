@@ -1,0 +1,4 @@
+movie_id,movie_name,genre,screen,showtimes,price
+M001,Avengers,Action,Screen 1,"10:00 AM, 1:00 PM",250
+M002,Interstellar,Drama,Screen 2,"12:00 PM, 4:00 PM",200
+M003,The Office,Comedy,Screen 3,"11:00 AM, 5:00 PM",150
